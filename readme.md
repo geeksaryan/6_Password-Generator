@@ -1,3 +1,5 @@
+# 🔗 Live Demo: https://password-generator-cyan-three-86.vercel.app/
+
 # Password Generator
 
 A simple and customizable Password Generator built using HTML, CSS, and JavaScript. This tool allows users to generate secure passwords based on their preferences.
